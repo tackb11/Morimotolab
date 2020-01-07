@@ -1,3 +1,3 @@
 # Morimotolab
 
-### These codes riting for Data-preprocessing
+### These codes writed for Data-preprocessing
